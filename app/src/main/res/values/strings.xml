@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hole Word</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <array name="spinner_value">
+        <item>测试1</item>
+        <item>测试2</item>
+        <item>测试3</item>
+        <item>测试4</item>
+    </array>
+</resources>
